@@ -44,7 +44,7 @@ _Project ini dibuat guna mengevaluasi pembelajaran khususnya pada konsep Cluster
 
 ## Problems
 
-Buatlah model clustering untuk melakukan Customer Segmentation dari data kartu kredit sebuah bank dibawah ini. Data ini merupakan data informasi penggunaan kartu kredit selama 6 bulan terakhir. 
+Membuat model clustering untuk melakukan Customer Segmentation dari data kartu kredit sebuah bank dibawah ini. Data ini merupakan data informasi penggunaan kartu kredit selama 6 bulan terakhir. 
 
 ## Assignment with Criteria
 
